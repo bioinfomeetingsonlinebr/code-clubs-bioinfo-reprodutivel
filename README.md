@@ -22,23 +22,23 @@ Durante as reuniões, um grupo apresenta um desafio de bioinformática proposto 
 
 Essa estrutura garante que todos tenham a oportunidade de propor problemas, discutir abordagens e apresentar soluções, exercitando tanto o raciocínio computacional quanto a comunicação científica.
 
-Os desafios devem estar alinhados aos temas de bioinformática listados abaixo e deverão aplicar práticas de reprodutibilidade inspiradas no [The Turing Way](https://github.com/the-turing-way/the-turing-way).
+Os desafios devem estar alinhados aos temas de bioinformática sugeridos abaixo e deverão aplicar práticas de reprodutibilidade inspiradas no [The Turing Way](https://book.the-turing-way.org/).
 
-#### [Veja os desafios já realizados](desafios/desafios_realizados.md)
+#### [Veja os desafios já realizados](desafios_realizados.md)
 
 ---
 
-## Temas dos desafios
+## Sugestão de temas para os desafios
 
 Os desafios propostos no Code Club podem abordar os seguintes temas:
 
 
-- **Database and Software Development**
-- **DNA and Genomics** 
-- **Phylogeny and Evolution** 
-- **Proteins and Proteomics** 
-- **RNA and Transcriptomics** 
-- **Systems Biology and Modeling** 
+- **Banco de Dados e Desenvolvimento de Software**
+- **DNA e Genômica** 
+- **Filogenia e Evolução** 
+- **Proteínas e Proteômica** 
+- **RNA e Transcriptômica** 
+- **Biologia de Sistemas e Modelagem** 
 
 ---
 
