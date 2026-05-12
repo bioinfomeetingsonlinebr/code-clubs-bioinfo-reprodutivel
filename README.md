@@ -4,19 +4,27 @@
 
 </div>
 
-O **Code Club de Bioinfo Reprodutível** é um grupo de estudos colaborativo voltado para a prática de bioinformática com foco em reprodutibilidade computacional. A proposta é simples: resolver desafios reais de bioinformática em grupo, usando Python e R, aprendendo uns com os outros no processo.
+O **Code Club de Bioinfo Reprodutível** é um grupo de estudos colaborativo voltado para a prática de bioinformática com foco em reprodutibilidade computacional. A proposta é simples: resolver desafios reais de bioinformática em grupo, usando Python, aprendendo uns com os outros no processo.
 
 O clube reúne pessoas de diferentes níveis de experiência, desde iniciantes até aqueles que já trabalham com análises complexas, com o objetivo comum de desenvolver habilidades em programação aplicada às ciências biológicas.
 
 Mais do que um curso, o Code Club é um espaço de troca: aqui ninguém apenas assiste, todo mundo coloca a mão no código.
 
+Este projeto é uma parceria entre os grupos Bioinfo Meetings Online BR ([@bioinfomobr](https://www.instagram.com/bioinfomobr/)), o Reprodutibilidade Computacional BR ([@reprodcomputbio](https://www.instagram.com/reprodcomputbio/)) e a Rede Brasileira de Reprodutibilidade ([@redereprodutibilidade](https://www.instagram.com/redereprodutibilidade/)).
+
 ---
 
 ## Como funcionam os encontros
 
-Os encontros acontecem **quinzenalmente, às terças-feiras, de forma online, às 13h**.
+Os encontros acontecem **quinzenalmente, às terças-feiras, de forma online, das 12:30h às 13:30h**.
 
-Durante as reuniões, um grupo apresenta e discute um desafio de bioinformática proposto previamente, compartilhando o script com a solução desenvolvida. Essa estrutura garante que todos tenham a oportunidade de propor problemas, discutir abordagens e apresentar soluções, exercitando tanto o raciocínio computacional quanto a comunicação científica.
+Durante as reuniões, um grupo apresenta um desafio de bioinformática proposto no encontro anterior, compartilhando o script com a solução desenvolvida. Em seguida, abre-se um espaço para que os demais participantes compartilhem soluções alternativas e discutam as diferentes abordagens. Ao final, o próximo grupo apresenta a proposta de desafio a ser resolvido até o encontro seguinte.
+
+Essa estrutura garante que todos tenham a oportunidade de propor problemas, discutir abordagens e apresentar soluções, exercitando tanto o raciocínio computacional quanto a comunicação científica.
+
+Os desafios devem estar alinhados aos temas de bioinformática listados abaixo e deverão aplicar práticas de reprodutibilidade inspiradas no [The Turing Way](https://github.com/the-turing-way/the-turing-way).
+
+#### [Veja os desafios já realizados](desafios/desafios_realizados.md)
 
 ---
 
@@ -27,7 +35,6 @@ Os desafios propostos no Code Club podem abordar os seguintes temas:
 
 - **Database and Software Development**
 - **DNA and Genomics** 
-- **Education and Outreach** 
 - **Phylogeny and Evolution** 
 - **Proteins and Proteomics** 
 - **RNA and Transcriptomics** 
@@ -37,13 +44,20 @@ Os desafios propostos no Code Club podem abordar os seguintes temas:
 
 ## Participação
 
-### Não há pré-requisitos!
+Para participar do Code Club, é necessário, no mínimo, estar com a graduação em andamento e possuir conhecimentos básicos de programação e/ou biologia.
 
-O Code Club foi pensado para ser inclusivo. Não importa se você é iniciante ou já tem experiência com programação. O intuito do clube é justamente reunir pessoas de diferentes níveis para que todos aprendam juntos. Trabalhamos principalmente com **Python** e **R**, mas o mais importante é a vontade de aprender.
+Não é preciso dominar ambas as áreas. O intuito do clube é justamente reunir pessoas com diferentes formações e níveis de experiência para que todos aprendam juntos. Trabalhamos principalmente com **Python**, mas o mais importante é a vontade de aprender.
 
-Quer fazer parte? Preencha o formulário abaixo:
 
-[Clique aqui para se inscrever!](link_aqui)
+Preencha o formulário abaixo para participar:
+
+[Inscreva-se aqui!](https://docs.google.com/forms/d/e/1FAIpQLSfBz09Enm16z6S_JClrDM7PPYAUw8BUxFTU-Hli52vpAKLFYA/viewform)
+
+---
+
+## Código de Conduta
+
+Ao participar do Code Club, todos os membros concordam em seguir o nosso [Código de Conduta](link_aqui), que estabelece as diretrizes para um ambiente acolhedor, respeitoso e colaborativo.
 
 ---
 
@@ -87,7 +101,7 @@ Quer fazer parte? Preencha o formulário abaixo:
 
 O Code Club de Bioinfo Reprodutível foi inspirado por dois projetos:
 
+- **[Code Club Python e Dados Biológicos - UNESP Rio Claro](https://github.com/Lab-LBMM/unesp-code-clubs)** - Code Club presencial que ocorre na Universidade Estadual Paulista (UNESP), que trouxe experiência prática para a organização deste projeto.
 - **[The Turing Way](https://github.com/the-turing-way/the-turing-way)** — Um guia colaborativo para ciência de dados reprodutível, ética e inclusiva, mantido pela comunidade e pelo Alan Turing Institute.
-- **[Reprodutibilidade Computacional Bio](link_aqui)** — Iniciativa brasileira voltada para a promoção de práticas reprodutíveis em bioinformática e ciências biológicas computacionais.
 
 ---
