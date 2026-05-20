@@ -4,7 +4,7 @@
 
 </div>
 
-O **Code Club de Bioinfo Reprodutível** é um grupo de estudos colaborativo voltado para a prática de bioinformática com foco em reprodutibilidade computacional. A proposta é simples: resolver desafios reais de bioinformática em grupo, usando Python, aprendendo uns com os outros no processo.
+O **Code Club de Bioinfo Reprodutível** é um grupo de estudos colaborativo voltado para a prática de bioinformática com foco em reprodutibilidade computacional. A proposta é simples: resolver desafios reais de bioinformática em grupo, usando Python, aprendendo uns com os outros no processo. Além de programar, o clube incentiva a adoção de práticas reprodutíveis, mostrando como documentar, organizar e estruturar análises para que qualquer cientista possa replicá-las.
 
 O clube reúne pessoas de diferentes níveis de experiência, desde iniciantes até aqueles que já trabalham com análises complexas, com o objetivo comum de desenvolver habilidades em programação aplicada às ciências biológicas.
 
@@ -18,7 +18,7 @@ Este projeto é uma parceria entre os grupos Bioinfo Meetings Online BR ([@bioin
 
 Os encontros acontecem **quinzenalmente, às terças-feiras, de forma online, das 12:30h às 13:30h**.
 
-Durante as reuniões, um grupo apresenta um desafio de bioinformática proposto no encontro anterior, compartilhando o script com a solução desenvolvida. Em seguida, abre-se um espaço para que os demais participantes compartilhem soluções alternativas e discutam as diferentes abordagens. Ao final, o próximo grupo apresenta a proposta de desafio a ser resolvido até o encontro seguinte.
+Durante as reuniões, um grupo apresenta um desafio de bioinformática proposto no encontro anterior, compartilhando o script com a solução desenvolvida sob as práticas reprodutíveis. Em seguida, abre-se um espaço para que os demais participantes compartilhem soluções alternativas e discutam as diferentes abordagens. Ao final, o próximo grupo apresenta a proposta de desafio a ser resolvido até o encontro seguinte.
 
 Essa estrutura garante que todos tenham a oportunidade de propor problemas, discutir abordagens e apresentar soluções, exercitando tanto o raciocínio computacional quanto a comunicação científica.
 
