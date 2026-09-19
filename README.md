@@ -48,16 +48,11 @@ Para participar do Code Club, é necessário, no mínimo, estar com a graduaçã
 
 Não é preciso dominar ambas as áreas. O intuito do clube é justamente reunir pessoas com diferentes formações e níveis de experiência para que todos aprendam juntos. Trabalhamos principalmente com **Python**, mas o mais importante é a vontade de aprender.
 
-
-Preencha o formulário abaixo para participar:
-
-[Inscreva-se aqui!](https://docs.google.com/forms/d/e/1FAIpQLSfBz09Enm16z6S_JClrDM7PPYAUw8BUxFTU-Hli52vpAKLFYA/viewform)
-
 ---
 
 ## Código de Conduta
 
-Ao participar do Code Club, todos os membros concordam em seguir o nosso [Código de Conduta](C%C3%B3digo%20de%20Conduta%20do%20Code%20Club%20de%20Bioinfo%20Reprodut%C3%ADvel.pdf), que estabelece as diretrizes para um ambiente acolhedor, respeitoso e colaborativo.
+Ao participar do Code Club, todos os membros concordam em seguir o nosso [Código de Conduta](codigo_de_conduta_cc_bioinfo_reprodutivel.pdf), que estabelece as diretrizes para um ambiente acolhedor, respeitoso e colaborativo.
 
 ---
 
