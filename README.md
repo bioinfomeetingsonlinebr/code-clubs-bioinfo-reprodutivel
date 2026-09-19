@@ -57,7 +57,7 @@ Preencha o formulário abaixo para participar:
 
 ## Código de Conduta
 
-Ao participar do Code Club, todos os membros concordam em seguir o nosso [Código de Conduta](link_aqui), que estabelece as diretrizes para um ambiente acolhedor, respeitoso e colaborativo.
+Ao participar do Code Club, todos os membros concordam em seguir o nosso [Código de Conduta](C%C3%B3digo%20de%20Conduta%20do%20Code%20Club%20de%20Bioinfo%20Reprodut%C3%ADvel.pdf), que estabelece as diretrizes para um ambiente acolhedor, respeitoso e colaborativo.
 
 ---
 
